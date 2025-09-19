@@ -35,13 +35,7 @@ Overall, this project combines **computer vision, machine learning, and web deve
 - `script/` – Libraries (ml5.js, p5.js)  
 - `style/` – Stylesheets for the interface  
 - `data.json` – Pre-trained dataset for yoga poses  
-- `assets/` – Images, GIFs, and visual resources  
-
----
-
-## 📸 Demo
-
-Add screenshots or GIF here (example: `a.gif`, `yoga_cover.png`)  
+- `assets/` – Images, GIFs, and visual resources   
 
 ---
 
